@@ -1,0 +1,23 @@
+{
+  "name": "odin-restaurant",
+  "version": "1.0.0",
+  "description": "Odin Project Restuarant page assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jraduege/odin-restaurant.git"
+  },
+  "author": "John Raduege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jraduege/odin-restaurant/issues"
+  },
+  "homepage": "https://github.com/jraduege/odin-restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
